@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/song"
+            android:icon="@drawable/ic_vector_song"
+            android:title="Songs" />
+        <item
+            android:id="@+id/nav"
+           android:icon="@drawable/ic_sendmatches"
+            android:title="@string/textofMatchZamalek" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:icon="@drawable/ic_grade_memories"
+            android:title="@string/MemoriesZamalek" />
+        <item
+            android:id="@+id/news"
+
+            android:icon="@drawable/ic_grade_memories"
+            android:title="@string/Newsss" />
+
+        <item
+            android:id="@+id/abouttt"
+
+            android:icon="@drawable/ic_grade_memories"
+            android:title="@string/about" />
+
+
+    </group>
+
+
+
+</menu>

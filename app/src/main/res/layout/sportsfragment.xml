@@ -1,0 +1,96 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/red"
+     android:padding="40dp"
+    tools:context="ZamalekSc.sportsfragment">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+        android:layout_gravity="center"
+        >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/roundbutton"
+        android:text="On Sport"
+        android:drawableLeft="@drawable/iconfootball"
+       android:paddingRight="@dimen/_30sdp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/onsport"
+        android:textColor="#ffffff"
+        android:paddingLeft="@dimen/_10sdp"
+
+        android:textSize="20dp"
+        />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundbutton"
+            android:text="Dmc Sport"
+            android:drawableLeft="@drawable/iconfootball"
+            android:paddingRight="@dimen/_30sdp"
+          android:paddingLeft="@dimen/_10sdp"
+            android:id="@+id/Dmcsport"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            />
+        </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        >
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundbutton"
+
+            android:text="ON E"
+            android:id="@+id/Nilesport"
+            android:drawableLeft="@drawable/iconfootball"
+            android:paddingRight="@dimen/_30sdp"
+            android:paddingLeft="@dimen/_10sdp"
+
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            />
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            >
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/roundbutton"
+
+                android:text="AlHayah "
+                android:id="@+id/Elhayah"
+                android:textColor="#ffffff"
+                android:drawableLeft="@drawable/iconfootball"
+                android:paddingRight="@dimen/_30sdp"
+                android:paddingLeft="@dimen/_10sdp"
+
+                android:textSize="20dp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

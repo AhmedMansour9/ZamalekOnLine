@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bccccc"
+    android:padding="@dimen/_15sdp"
+    tools:context="zamaleekonlinee.zamalekonline.Newss">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listnews"
+        android:dividerHeight="2dp"
+        android:divider="#da23fa"
+
+        ></ListView>
+
+
+</FrameLayout>

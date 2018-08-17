@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:minHeight="?attr/actionBarSize"
+    app:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+    android:fitsSystemWindows="true"
+  android:layoutDirection="ltr"
+    android:background="#ff002b">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="2"
+
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Zamalek Sc"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="#e9f2e9"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1.0"
+            />
+
+        <ImageView
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_45sdp"
+            android:src="@drawable/icanzamalek"
+            android:paddingBottom="4dp"
+            android:layout_gravity="center_vertical"
+
+            android:layout_weight="1.0"
+
+            />
+
+    </LinearLayout>
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,571 @@
+<resources>
+    <string name="app_name">ZamalekSC</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Aboutt">
+If you have any questions, concerns, or suggestions, don’t hesitate to let me know or contact me  </string>
+    <string name="about2">email: </string>
+    <string name="about3">Ahmed_pop219490@yahoo.com
+</string>
+    <string name="about4">I am looking forward to hearing from you</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="TextStringZamalekbar">Zamalek Club</string>
+    <string name="about">About</string>
+    <string name="textofMatchZamalek">"قنوات البث المباشر "</string>
+    <string name="MemoriesZamalek">"The best Memories in Stadium"</string>
+    <string name="Newsss">"News"</string>
+    <string name="app_version_number">1.0</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="cd_repeat">Repeat one or all</string>
+    <string name="cd_previous">Skip backwards</string>
+    <string name="cd_play">Play and pause</string>
+    <string name="cd_next">Skip forwards</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="itemMusic">
+        <item>صرخة العشرين
+</item>
+        <item>ياتيشرت العمر يا ابيض
+</item>
+        <item>مشجع مش نزيل </item>
+        <item>في التالتة يمين </item>
+        <item>أصل الحكاية </item>
+        <item>يا اسم مالي الكون </item>
+        <item> الكورة للجماهير </item>
+        <item>في كل استاد غنينا </item>
+        <item>اخوات في الدم ليوم الدين </item>
+        <item>100 سنة معاه </item>
+        <item>اعظم كيان </item>
+        <item>حب مالوش نهاية </item>
+        <item>شعاره ملكي </item>
+        <item>عيشت الامجاد </item>
+        <item>حلم البداية </item>
+        <item>بطولة ياربي </item>
+        <item> اسلوب حياه </item>
+        <item> اسطورة الجماهير </item>
+        <item> حرب نهاية الزمان </item>
+        <item>بفتكرك </item>
+        <item>اللي شافك من زمان </item>
+        <item>حكاية ثورة </item>
+        <item>فك قيود الحرية </item>
+        <item>علي الفوز الليلة حارب </item>
+        <item>علمك عالي </item>
+        <item>زمالك حبك حرية </item>
+        <item>اوفياء </item>
+        <item>شهداء الزمالك </item>
+        <item>اولتراس صوت الحياه </item>
+        <item>فلسطين الارض عربية </item>
+        <item>غالي وافديه بحياتي </item>
+        <item>عمري ما هنسي </item>
+        <item>عقيدة الفرسان </item>
+        <item>شمس الحرية </item>
+        <item>سالوني مين اختار </item>
+        <item>اسال علي الكيان </item>
+        <item>الزمالك ده اعظم نادي </item>
+        <item>انصر ياربي الابطال </item>
+        <item>نادي الملوك والابطال </item>
+        <item>الزمالك هوا الملك </item>
+        <item>اي حكاية </item>
+        <item>هوا الحياه والروح </item>
+        <item>نور كل الحياه </item>
+        <item>كلمة بسبع حروف </item>
+        <item>عزيز الشافعي 1911 </item>
+        <item>احنا معاك يا عميد </item>
+        <item>بحبك يا زمالك </item>
+        <item>جماهير الزمالك </item>
+        <item>راية في البلكونة </item>
+        <item>وهيفضل صوتي </item>
+        <item>اسياد افريقيا </item>
+        <item>الليلة جينا ندعي ونقول ياربي </item>
+        <item>No Pasaran</item>
+        <item> زملكاوي انا </item>
+        <item> يازمالك انت كبير </item>
+
+        <item> يازمالك ياعمري </item>
+        <item>افرح .. افرح وغني </item>
+        <item>احمد سليمان يازمالك </item>
+        <item>مادو .. سنظل اوفياء </item>
+        <item> محمد رشدي .. يازمالك </item>
+        <item> احنا درعك وسيفك احنا فداك </item>
+        <item> بشجع الزمالك </item>
+        <item> في الكورفا السود </item>
+        <item> احنا العشاق </item>
+        <item> عزيز الشافعي .. كان كل طموحي </item>
+        <item> شيكا بالا شجعوه </item>
+        <item> زمالك حبه مالك قلبي </item>
+        <item> عزيز الشافعي .. الزمالك جوة قلبي </item>
+        <item> مدرسة الزمالك </item>
+        <item> اغنية من فلسطين في حب الزمالك </item>
+        <item>جينا ورب الكون دعينا </item>
+        <item> تذكرة الموت لي شهداء الزمالك</item>
+        <item> احنا الزملكاوية </item>
+        <item> شهداء الزمالك </item>
+        <item>مادو .. لشهداء الدفاع الجوي </item>
+        <item>أغنية اللون الأبيض عشق الطفولة </item>
+
+
+    </string-array>
+
+
+    <string-array name="LinkSongs">
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B5%D8%B1%D8%AE%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%8A%D9%86.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/Ultras-White-Knights-%D9%8A%D8%A7-%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D8%B1-%D9%8A%D8%A7-%D8%A3%D8%A8%D9%8A%D8%B6.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D9%85%D8%B4%D8%AC%D8%B9%20%D9%85%D8%B4%20%D9%86%D8%B2%D9%8A%D9%84%20-%20Ultras%20Not%20Criminal.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%BA%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%A7%D9%84%D8%AA%D9%87-%D9%8A%D9%85%D9%8A%D9%86-%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-2015-%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-Fel-Talta-Yemeen.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/-%D8%A3%D8%B5%D9%84-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-Asl-El-Hekaya.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/3-%D9%8A%D8%A7-%D8%A7%D8%B3%D9%85-%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%86-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A3%D9%84%D9%83%D9%88%D8%B1%D8%A9%20%D9%84%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/6-%D9%81%D9%8A-%D9%83%D9%84-%D8%B3%D8%AA%D8%A7%D8%AF-%D8%BA%D9%86%D9%8A%D9%86%D8%A7-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D9%80%D8%A7%D9%86-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%AE%D9%88%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AF%D9%85%20%D9%84%D9%8A%D9%88%D9%85%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/100-%D8%B3%D9%86%D8%A9-%D9%85%D8%B9%D8%A7%D9%87-%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D9%88%D8%A7%D9%8A%D8%AA-%D9%86%D8%A7%D9%8A%D8%AA%D8%B3-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-2013.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/Ultras-White-Knights-16-A3zam-Kayan-%D8%A7%D8%B9%D8%B8%D9%85-%D9%83%D9%8A%D8%A7%D9%86-Sout-Al-Forsan-2013%20(1).mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%AD%D8%A8%20%D9%85%D8%A7%D9%84%D9%88%D8%B4%20%D9%86%D9%87%D8%A7%D9%8A%D8%A9.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/02-%D8%B4%D8%B9%D8%A7%D8%B1%D8%A9-%D9%85%D9%84%D9%83%D9%8A-Ultras-White-Knights-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/08-%D8%B9%D8%B4%D8%AA-%D8%A7%D9%84%D8%A7%D9%85%D8%AC%D8%A7%D8%AF-Ultras-White-Knights-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D9%88%D8%A7%D9%8A%D8%AA-%D9%86%D8%A7%D9%8A%D8%AA%D8%B3-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-2013.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B2%D9%85%D8%A7%D9%84%D9%83%20%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%B3%D9%84%D9%88%D8%A8-%D8%AD%D9%8A%D8%A7%D8%A9-Ultras-White-Knights%20(1).mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/10-%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-UWK07-Album-2016-The-8th-of-February-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%AD%D8%A8%20%D9%85%D8%A7%D9%84%D9%88%D8%B4%20%D9%86%D9%87%D8%A7%D9%8A%D8%A9.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/04-%D8%A8%D9%81%D8%AA%D9%83%D8%B1%D9%83-Ultras-White-Knights-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/14-اللى-شافك-من-زمان-الوايت-نايتس.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%AD%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D9%88%D8%A7%D9%8A%D8%AA-%D9%86%D8%A7%D9%8A%D8%AA%D8%B3-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-2013.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/10-%D9%81%D9%83-%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%A9-Ultras-White-Knights-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%81%D9%88%D8%B2%20%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9%20%D8%AD%D8%A7%D8%B1%D8%A8.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/9-%D8%B9%D9%84%D9%85%D9%83-%D8%B9%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%AD%D8%A8%D9%83-%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D9%88%D8%A7%D9%8A%D8%AA-%D9%86%D8%A7%D9%8A%D8%AA%D8%B3-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D8%B3%D8%A7%D9%86-2013.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/5-%D8%A7%D9%88%D9%81%D9%8A%D8%A7%D8%A1-UWK-CD-2013.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D9%88%D9%84-%D8%A7%D8%BA%D9%86%D9%8A%D8%A9-%D8%B9%D9%86-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%81%D9%8A-%D9%85%D8%B0%D8%A8%D8%AD%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%AC%D9%88%D9%8A.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/8-%D8%A3%D9%88%D9%84%D8%AA%D8%B1%D8%A7%D8%B3-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-UWK07-Album-2016-The-8th-of-February-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/7-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-UWK07-Album-2016-The-8th-of-February-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%BA%D8%A7%D9%84%D9%89-%D9%88%D8%A7%D9%81%D8%AF%D9%8A%D8%A9-%D8%A8%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/4-%D8%B9%D9%85%D8%B1%D9%8A-%D9%85%D8%A7%D9%87%D9%86%D8%B3%D9%89-Omry-Ma-Hansa.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B9%D9%82%D9%8A%D8%AF%D8%A9-%D9%81%D8%B1%D8%B3%D8%A7%D9%86-Ultras-White-Knights-UWK%20(1).mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%B4%D9%85%D8%B3-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%83%D9%84%D9%85%D8%A7%D8%AA-Shams-El-Horyya-Wit.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%B3%D8%A6%D9%84%D9%88%D9%86%D9%8A-%D9%85%D9%8A%D9%86-%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%B3%D8%A6%D9%84%D9%88%D9%86%D9%8A-%D9%85%D9%8A%D9%86-%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%B3%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%8A%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D9%85-%D8%A7%D8%B3%D9%84%D9%88%D8%A8-%D8%AD%D9%8A%D8%A7%D8%A9.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%A7%D9%86%D8%B5%D8%B1-%D9%8A%D8%A7%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%A7%D8%A8%D8%B7%D8%A7%D9%84-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%8A%D8%A7%D8%B9%D9%85%D8%B1%D9%8A-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%87%D9%88-%D8%A7%D9%84%D9%85%D9%84%D9%83-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%A7%D9%8A-%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D9%87%D9%88-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D9%88%D8%A7%D9%84%D8%B1%D9%88%D8%AD-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D9%86%D9%88%D8%B1-%D9%83%D9%84-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D9%83%D9%84%D9%85%D8%A9-%D8%A8%D9%80-7-%D8%AD%D8%B1%D9%88%D9%81%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/Aziz-Elshafy-1911-%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D8%A7%D8%AD%D9%86%D8%A7-%D9%85%D8%B9%D8%A7%D9%83-%D9%8A%D8%A7-%D8%B9%D9%85%D9%8A%D8%AF-ZamalekFans-com(2).mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A8%D8%AD%D8%A8%D9%83-%D9%8A%D8%A7-%D8%B2%D9%85%D8%A7%D9%84%D9%83-mp4%20(1).mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A-%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-2012.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B1%D8%A7%D9%8A%D8%A9-%D9%81-%D8%A7%D9%84%D8%A8%D9%84%D9%83%D9%88%D9%86%D8%A9-mp4.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/1-%D9%88%D9%87%D9%8A%D9%81%D8%B6%D9%84-%D8%B5%D9%88%D8%AA%D9%8A-UWK07-Album-2016-The-8th-of-February-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%B3%D9%8A%D8%A7%D8%AF-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%A7%D8%BA%D9%86%D9%8A%D8%A9-%D8%AC%D8%A7%D9%85%D8%AF%D8%A9-%D9%84%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%E2%96%BA[UWK]-%D8%A7%D9%84%D9%84%D9%8A%D8%A9-%D8%AC%D9%8A%D9%86%D8%A7-%D9%86%D8%AF%D8%B9%D9%89-%E2%97%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D9%84%D8%A7%20%D8%A7%D8%B3%D8%AA%D8%B3%D9%84%D8%A7%D9%85-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B2%D9%85%D9%84%D9%83%D8%A7%D9%88%D9%8A-%D8%A3%D9%86%D8%A7-%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A-ZAMLKAWY-ANA-AZIZ-ELSHAFHI.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D9%8A%D8%A7-%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A7%D9%86%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1-%D8%B1%D8%A7%D9%85%D9%8A-%D8%B1%D9%81%D8%B9%D8%AA-%D9%88-%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D9%83%D9%84%D9%8A%D8%A8-%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%8A%D8%A7%D8%B9%D9%85%D8%B1%D9%8A-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A8%D8%B7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-HD.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D9%84%D8%A7%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D8%A4%D8%A7%D8%AF-%D9%8A%D8%BA%D9%86%D9%89-%D9%84%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A8%D9%85%D9%86%D8%B3%D8%A8%D8%A9-%D9%81%D9%88%D8%B2%D9%87-%D8%A8%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%89-2015-%D8%A7%D8%BA%D9%86%D9%8A%D8%A9-%D8%A3%D9%81%D8%B1%D8%AD.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/Ahmed-Soliman-Ya-Zamalek-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86-%D9%8A%D8%A7-%D8%B2%D9%85%D8%A7%D9%84%D9%83.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D9%85%D8%A7%D8%AF%D9%88-%D8%B3%D9%86%D8%B8%D9%84-%D8%A7%D9%88%D9%81%D9%8A%D8%A7%D8%A1-2015.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%B4%D8%AF%D9%89-%D9%8A%D8%BA%D9%86%D9%89-%D9%8A%D8%A7-%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%81%D9%89-%D8%AD%D9%81%D9%84-%D9%86%D8%A7%D8%AF%D9%89-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%AD%D9%86%D8%A7%D8%AF%D8%B1%D8%B9%D9%83%D9%88%D8%B3%D9%8A%D9%81%D9%83.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A8%D8%B4%D8%AC%D8%B9-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%89.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%BA%D9%86%D8%A7%D8%A1-%D8%B3%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D9%81%D9%8A%D9%84%D9%88-2017.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%AD%D9%86%D8%A7%20%D8%A7%D9%84%D8%B9%D8%B4%D8%A7%D9%82.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%BA%D9%86%D9%8A%D9%87-%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%89-%D8%A7%D9%87%D8%AF%D8%A7%D8%A1-%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%BA%D9%86%D9%8A%D9%87-%D8%B4%D9%8A%D9%83%D8%A7%D8%A8%D8%A7%D9%84%D8%A7-%D8%B4%D8%AC%D8%B9%D9%88%D9%87-.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D9%84%D9%86%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%89-%D9%84%D9%86%D8%A7%D8%AF%D9%89-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%BA%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%AC%D9%88%D8%A9-%D9%82%D9%84%D8%A8%D9%89-%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%89-@RiadaNet-com.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D8%B5%D8%B1%D9%8A%D8%A7%D9%8B.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D9%86%D8%AA-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A7%D8%BA%D9%86%D9%8A%D8%A9-%D9%85%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%81%D9%89-%D8%AD%D8%A8-%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%89.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%AC%D9%8A%D9%86%D8%A7-%D9%88%D8%B1%D8%A8-%D8%A7%D9%84%D9%83%D9%88%D9%86-%D8%AF%D8%B9%D9%8A%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D8%B1%D9%88%D8%B9-%D8%A7%D8%BA%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%BA%D9%86%D9%8A%D8%A9-%D8%A7%D8%AD%D9%86%D8%A7-%D8%A7%D9%84%D8%B2%D9%85%D9%84%D9%83%D9%88%D9%8A%D8%A9.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A7%D8%BA%D9%86%D9%8A%D8%A9-%D8%A7%D8%AD%D9%86%D8%A7-%D8%A7%D9%84%D8%B2%D9%85%D9%84%D9%83%D9%88%D9%8A%D8%A9.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%B3-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A7%D8%BA%D9%86%D9%8A%D9%87-(-%D8%A7%D9%84%D9%84%D9%87-%D9%8A%D8%B1%D8%AD%D9%85%D9%87-)-%D8%B9%D8%A7%D8%B5%D9%85-%D8%B9%D8%B5%D8%A7%D9%85-white-knights-(-allah-yer7mo-)-Asim-Essam.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D9%85%D8%A7%D8%AF%D9%88%20..%20%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%20%D8%A7%D9%84%D8%AC%D9%88%D9%8A.mp3</item>
+        <item>https://zamaleksongs.000webhostapp.com/%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AD%D8%A7%D8%AC%D8%A9-%D8%A3%D8%AE%D8%B1-%D9%81%D8%AE%D8%A7%D9%85%D8%A9.mp3</item>
+    </string-array>
+
+
+    <string-array name="TextMomries">
+        <item>الفيلم الوثائقي مذبحة الدفاع الجوي</item>
+        <item>احداث موقعة استاد الدفاع الجوي وممر الموت</item>
+        <item>الفيلم الوثائقي المجد للشهداء عن مذبحة بورسعيد</item>
+        <item>الفيلم التاريخي الوثائقي عن الزمالك .. الحكاية مابتنتهيش .. جودة HD
+</item>
+        <item>Zamalek Vs. Gazelle - UWK Support - Caf CL - Round 64</item>
+
+          <item>اجواء اوربية من الوايت نايتس وتشجيع جامدوشماريخ اعظم جمهور في الكون 10/4/2016
+</item>
+
+        <item>إفتح بنموت</item>
+        <item>Ultras White Knights - الذكرى الأولى لمذبحة الدفاع الجوي - الجزء الأول</item>
+        <item>Ultras White Knights - الذكرى الأولى لمذبحة الدفاع الجوي - الجزء الثاني</item>
+        <item>الوايت نايتس هتافات زلزلت أستاد الرعب و الفزع القاهرة</item>
+        <item>اقوي فيديوهات تشجيع للوايت نايتس في مباراه اتليتكو مدريد</item>
+        <item>اقوي جمهور في العالم يحتفل بشكل هيستيري</item>
+        <item>احنا جمهور الجبار بشكل رائع مثل مباره المئويه</item>
+        <item>شاهاد المشهد الذي لا يمكن ان تراه في اي مكان في العالم</item>
+        <item>اجواء اوربية من الوايت نايتس وتشجيع جامدوشماريخ اعظم جمهور في الكون</item>
+        <item>شاهد ماذا فعل جمهور الزمالك ابعد ضياع الحلم الافريقي وبكاء هيستيري للاعبي الزمالك</item>
+        <item>شاهد جحيم ورعب جماهير الزمالك للاعبي صن داونز والزمالك</item>
+        <item>نص ساعه من ملحمه جمهور الزمالك في نهائي افريقيا</item>
+        <item>ابداع جمهور الزمالك العظيم في مباراة صن داونز</item>
+        <item>كيف استقبلت جماهير الزمالك لاعبيها قبل المباراه النهائيه</item>
+        <item>شاهد لحظه احراز هدف ستانلي انفجار الكورفا</item>
+        <item>صرخه العشرين نهائي افريقيا</item>
+        <item>جماهير الزمالك تهتف لسيد مشاغب خرجوا المحبوسين -نهائي افريقيا</item>
+        <item>اكبر اكشن كشافات في العالم</item>
+        <item>رساله الي المنتفعين والمحدثين ده شيكابالا انتوا مين</item>
+        <item>كيف استقبلت جماهير الزمالك لاعبيها قبل المباراه النهائيه</item>
+        <item>انبهار معروف وستانلي بعد مشاهده جحيم الوايت نايتس في المطار</item>
+        <item>صرخه العشرين في وداع رجال الزمالك</item>
+        <item>جمهور الزمالك يزلزل المطار بالهتاف للشناوي والاعب يهتف مع الجمهور</item>
+        <item>شاهد اهداف الزمالك في الوداد وفرحتها تصوير زوايه عكسيه ارض الملعب</item>
+        <item>شاهد انفجار الكورفا لحظه احرز هدف الحاوي</item>
+        <item> شاهد استقبال هيستيري لشيكابالا اهو اهو الزملكاوي اهو
+</item>
+        <item>صوت الحياه</item>
+        <item>صرخه العشرين ماتش انيمبا</item>
+        <item>احنا الزملكاويه بجد</item>
+        <item>زمالك اسم كبير امواج بشريه</item>
+        <item>ايمن حفني سموني حاوي وانا حاوي سموني حاوي وانا اعمل ايه</item>
+        <item>جمهور الزمالك يهتف ضد صالح سليم</item>
+        <item>ابطال ع مين تعالوا شوفوا التالته يمين</item>
+        <item>الملعب يهتز عند هتاف اوليه اوليه اوليه شيكا شيكا</item>
+        <item>تعالي ياسافل 1 2 سعد سمير فين</item>
+        <item>شاهد انفجار الكورفا لحظه الهدف واحتفال باسم مع الالتراس</item>
+        <item>شيكابالا ولاعيبه الزمالك تغني تعالي نكسب افريقيا والوايت يغني ف التالته شمال 2</item>
+        <item>شيكابالا والاعبيين ترقص بكاس مصر مع الجمهور</item>
+        <item>شاهد 5 دقائق من الاحتفالات الجنونيه لابطال الزمالك وشاهد بلطجه لاعبي الاهلي اثناء احتفال الزمالك</item>
+        <item>جمهور الزمالك في الانكسار يقف بجوار فريقه قبل الفرحه </item>
+        <item>عاش الزمالك</item>
+        <item>طول عمر التالته يمين اشجع رجال</item>
+        <item>زمالك اسم كبير موجه بشريه</item>
+        <item>اوليه اوليه يازملكاوي</item>
+        <item>احمد الاحمر كيفك</item>
+        <item>دوبل فيراج اي حكايه الابداع يخرج دائما من رحم الوايت نايتس</item>
+        <item>ترجي ترجي ايه ده نادي ده ولا كباريه تلعب ع الشيشه</item>
+        <item>لحظه دخول الاعيبه للشقلبه صباح الخير صباح النصر احنا ملوك اليد ف مصر</item>
+        <item>ميكس 66 بتقولك اوع متنساش مع وانتوا ياقرود HD</item>
+        <item>شاهد القطار في المطار</item>
+        <item>شاهد اعظم دبل فيراج ممكن تشوفه في العالم</item>
+        <item>صرخه العشرين بصوت الاعبيين والجمهور</item>
+        <item>استقبال ناري</item>
+        <item>استقبال الوايت نايتس لاحمد الاحمر</item>
+        <item> الليله نهد الصاله عليكوا</item>
+        <item>ابداع الوايت نايتس اكشن الموبيلات تفضل امجادك قدام عيني</item>
+        <item>دبل فيراج ا ي حكايه</item>
+        <item>صرخه العشرين - اكشن كوفيات</item>
+        <item>Pyro Show ABNORMAL HEROS -uwk</item>
+        <item>بقياده ممدوح هاشم الوايت نايتس يهتف عمري ما هنسي ابويا وكلمه بسبع حروف</item>
+        <item>ممدوح هاشم واحمد الاحمر لا لا لا زمالك عمري</item>
+        <item>الطريق الي السادسه -شاهد ساعه من التشجيع الزمالك وبجايه</item>
+        <item>صرخه العشرين H D</item>
+        <item>احنا درعك وسيفك إحنا فداك يا #زمالك كيف ممكن ان يهزم الزمالك وهو عنده هؤلاء</item>
+        <item>تفضل امجادك قدام عيني ولاخر يوم في عمري زملكاوي انا</item>
+        <item>شاهد فرحه العشاق لحظه رجوعهم الي الكورفا ووضع بنر المجموعه لاول مره</item>
+        <item>العب يازملكاوي وبطوله افريقيا ان شاء الله لينا</item>
+        <item>شاهد احتفال كهربا مع الوايت نايتس اجواء وكانك في امريكا الاتينيه</item>
+        <item>Campeón De Campeones zamalekfans</item>
+        <item>20 دقيقه احتفالات الزملكاويه من الدفاع الجوي الي ميت عقبه</item>
+        <item>احنـــــا جمهوره الجبـــــــــــــــــار</item>
+        <item>فيديو تشجيع ماتش بطل النيجر بزوايا مختلفه</item>
+        <item>ميدو وعمر جابر يهتفون مع الالتراس بعد مباره بطل النيجر</item>
+        <item>جمهور الزمالك يسب عباس والاهلي</item>
+        <item>الوايت نايتس يطلب الحريه للدوري</item>
+        <item>شاهد جنون الكره عمرو جابر يطلع الي المدرجات ويهتف مع الالتراس</item>
+        <item>احتفال جنوني للاعبي الزمالك بالشماريخ مع الوايت نايتس في احتفالات الكاس</item>
+        <item>فيلم نص ساعه بدون مونتاج شاهد علي احداث مجزره نادي الزمالك</item>
+        <item>شاهد 20 دقيقه تشجيع خيالي للوايت نايتس في مباراه اورلاندو</item>
+        <item>فيديو تشجيع ماتش اورلاندو كامل للفجر عنوان وايت نايتس غير</item>
+        <item>شاهد روح الوايت نايتس بعد هدف ابو تريكه في الزمالك</item>
+        <item>فيديو تشجيع الوايت نايتس في مباراه الاهلي ديربي افريقيا</item>
+        <item>اكشن الاحمر والابيض للوايت نايتس في ديربي افريقيا</item>
+        <item>شاهد انبهار لاعبي فيتا بالوايت نايتس ولاعبهم يقول علي الجماهير انهم مجانين</item>
+        <item>يازمالك يامدرسه لعب وفن وهندسه</item>
+        <item>جمهور الزمالك يعلم باسم يوسف الادب فلفل اخضر حمراء يا اوطه</item>
+        <item>فيديو تشجيع ماتش الزمالك والجونه</item>
+        <item>دخلة الوايت نايتس فى مباراة اتليتكو مدريد</item>
+        <item>الوايت نايتس يشعل حلمي زامورا قبل الديربي 26/1/2015</item>
+        <item>Zamalek Vs. Gazelle - UWK Support - Caf CL - Round 64</item>
+        <item>UWK Pyroshow  Supporting in Caf CL - Round 64</item>
+        <item>Derby 106 Video By Ultras White Knights</item>
+        <item>Ultras White Knights in Zamalek Vs. Club African-CAF Champions League- Part 2</item>
+        <item>لوبطلنا نحلم نموت بشكل جديد وشقلبه من نوع خاص</item>
+        <item>فيديو تاريخي لاعبي الزمالك القدمي يغنوا مع الوايت نايتس واجوا لايمكن مقارنتها حتي باوروبا</item>
+        <item>شيكابالا يواصل العزف مع الوايت نايتس علي الحان التالته شمال في السويس</item>
+        <item>كل كونترات الوايت نايتس وشيكابالا</item>
+        <item>تاريخ كبير يحكي عليه 100 سنه فاتوا وعدوا عليه زمالك</item>
+        <item>بيروشو الصاله</item>
+        <item>صباح الخير صباح النصر احنا ملوك اليد في مصر</item>
+        <item>Egypt and Tunisia are free uwk</item>
+        <item>وايت نايتس عالمي</item>
+        <item>اقوي دقيقه تشجيع للوايت نايتس في ماتش ابوالعربي</item>
+        <item>الوايت نايتس في ماتش الاسماعيلي الجحيم 2</item>
+        <item>شاهد الكورفا كيفما يجب ان تكون</item>
+        <item>اقوي كابو في افريقيايحرك اقوي كورفا في العالم</item>
+        <item>شاهد كورفا الزمالك في ماتش الاهلي واتحدي ان يكون لها مثيل</item>
+        <item>كليب الزمالك الجديد 2015\ 2016</item>
+        <item>فتاة هولندية تغنى للزمالك</item>
+        <item>كليب 3 اغانى للزمالك من مساء الأنوار</item>
+        <item>الوايت نايتس يولع الماتش بالشماريخ والشوالى يشبههم بجمهور البوكا </item>
+        <item> تشجيع جنونى لجمهور الزمالك و دخلة التراس تاريخية ماتش الافريقى</item>
+        <item>دخله جمهور الزمالك فى نهائى الكاس من البدايه للنهايه</item>
+        <item>اهداف مباراة الزمالك والوداد 4-0 [كاملة] حفيظ دراجي - دوري ابطال افريقيا 2015/2016 </item>
+        <item>UWK Pyroshow  Supporting in Caf CL - Round 64</item>
+        <item>Ultras White Knights in ZamalekSC Vs MO Béjaïa - CAFCL2016 Round of 16</item>
+        <item>الوايت نايتس هتافات زلزلت أستاد الرعب و الفزع القاهرة</item>
+        <item>التاج الملكى افضل دخلة فى تاريخ العالم العربي</item>
+        <item> دخلة الوايت نايتس الرائعة فى مباراة الزمالك وبطل النيجر</item>
+        <item>دخلة جماهير الوايت نايتس الزمالك × الافريقي</item>
+        <item>المشهد الذى ابهر العالم بأكمله</item>
+        <item>Pyroshow Ultras White Knights (Zamalek vs. CA)</item>
+        <item>Ultras White Knights Intro in Zamalek Vs. Enppi-Egy Cup 2011-Final Leg</item>
+        <item>Ultras White Knights intro Zamalek Vs. Ismaily</item>
+        <item>Ultras White Knights- Zamalek Vs. Ismaily match</item>
+        <item>5 Years Knights Celebration-UWK</item>
+        <item>UWK ALEX - 5 Years Knights Celebration</item>
+        <item>Ultras White Knights celebrating the Egyptian handball league - 2016</item>
+        <item>احتفال جمهور الزمالك ببطولة افريقيا لكأس الكئوس الافريقية لكرة اليد 2016
+</item>
+        <item>شاهد روعة الوايت نايتس مطار القاهرة</item>
+        <item>ممدوح هاشم واحمد الاحمر لا لا لا زمالك عمري</item>
+        <item>«وايت نايتس» يفاجئون عمر جابر بـ«الشماريخ» تحت منزله</item>
+        <item>UWK Support Zamalek Vs. Heliopolis - Egypt Cup "Handball</item>
+        <item>Ultras White Knights in ZamalekSC vs Al-Shams U20 Handball match</item>
+        <item>Ultras White Knights in Ethiopia 2013 "St.george Vs Zamalek" CAF CL - Round 16</item>
+        <item>رد فعل جمهور الزمالك على مذبحة بورسعيد</item>
+        <item>فيديو تسجيلي عن نادي الزمالك علي ابو ظبي الرياضية الجزء الاول
+</item>
+        <item>اقتحام جماهير الزمالك النادي وسبها لمممدوح عباس</item>
+        <item>أروع أهداف الساحر شيكابالا</item>
+        <item>جماهير الزمالك تشعل ملعب زامورا بالشماريخ والهتافات قبل تدريب القمه</item>
+        <item>الليلة جينا - ابطال على مين</item>
+        <item>Ultras White Knights Raping Al Ahly Club</item>
+        <item>اقتحام النادى الاهلى وجحيم الوايت نايتس الخوف منا عايش جواكم</item>
+        <item>ملخص مباراة || الزمالك 1 - 0 الرجاء|| نهائي بطولة أفريقيا 2002</item>
+        <item>جميع الاهداف التاريخيه للزمالك والاحتفلات بالبطولات الزملكاويه على مر التاريخ</item>
+        <item>اهداف الزمالك 7-0 جازيلي - تعليق محمود بكر 17/2/2013
+</item>
+        <item>اهداف الاهلى و الزمالك 1-3</item>
+        <item>ملخص مباراه الزمالك والرجاء البيضاوى المغربي 1 / 0 للزمالك عام 2002 وتتويج الزمالك باللقب !
+</item>
+        <item>جماهير الزمالك تشعل المدرجات بهتاف "زمالك يا عمرى"</item>
+        <item>مصطفى - ايمان ( فرحة بطعم الزمالك ) ولاد زامورا</item>
+        <item>هتاف وتشجيع بنات الزمالك واحلى لقطة ومصطفى يونس جدو</item>
+        <item>عمر جابر يقود تشجيع الوايت نايتس
+</item>
+        <item>الوايت نايتس يشعل حلمي زامورا قبل الديربي 26/1/2015
+</item>
+        <item>لحظة دخول الكابو شيكابالا فى التالتة يمين مع الوايت نايتس
+</item>
+        <item>دخلة جماهير الوايت نايتس الزمالك × الافريقي</item>
+        <item>شاهد متعة تشجيع الوايتس نايت ومحمد ممدوح داخل الصالة المغطاه</item>
+        <item>ابداع الوايت نايتس اكشن الموبيلات تفضل امجادك قدام عيني</item>
+        <item>Ultras White Knights celebrating the Egyptian handball league - 2016</item>
+        <item>UWK Support Zamalek-Al Sharkeya Basketball Match</item>
+        <item>تشجيع الوايت نايتس في مباراه الهاند بول سكر الحوامديه</item>
+        <item>UWK Support Zamalek Vs. Heliopolis - Egypt Cup "Handball"
+</item>
+        <item>جماهير الزمالك الوفية أمام الأهلي</item>
+        <item>جميع اهداف الزمالك موسم 2014-2015 + الاحتفال والتتويج بـ درع الدوري</item>
+        <item>دخله الزمالك في ماتش الاهلي</item>
+        <item>دخله اولتراس وايت نايتس الرائعه الجوكر فى مباراه الجونه
+
+
+</item>
+        <item>دخلة وايت نايتس أمام دوان في دوري أبطال إفريقيا</item>
+        <item>صرخه العشرين - إبداع جمهور الزمالك بعد إغلاق أضواء الصالة</item>
+        <item>تفضل امجادك قدام عيني ولاخر يوم في عمري زملكاوي انا</item>
+        <item>الكره للمتعه وللجماهير كما لم تسمعها من قبل</item>
+        <item>اعظم هتاف بحماس ممكن تسمعه وتشوفه في حياتك كلها</item>
+
+
+    </string-array>
+    <string-array name="YoutubeMemories">
+        <item>MduHFP33FMg</item>
+        <item>DvOJByGgAGg</item>
+        <item>Xo3BagJGwb0</item>
+        <item>1xztEGRbdQg</item>
+        <item>puYIBrQVry4</item>
+        <item>s-NWjy0WICk</item>
+        <item>m4ovwdpkWyI</item>
+        <item>ENtvWaphi-A</item>
+        <item>2C9HmLc-sN8</item>
+        <item>-2yqe6H3qQU</item>
+        <item>4yo_jXObDsA</item>
+        <item>jAK5hqzuW04</item>
+        <item>H9fnJlMoKws</item>
+        <item>kZ7Tr2rQx8U</item>
+        <item>s-NWjy0WICk</item>
+        <item>1kZFTCiyyOA</item>
+        <item>N3FRqtESTv4</item>
+        <item>35xL2yOIQGY</item>
+        <item>hVZ3Ter2NCw</item>
+        <item>QdtTydxiWvA</item>
+        <item>5uaX1hpSakM</item>
+        <item>ZNz6cuqrYs0</item>
+        <item>hO_RmjOZmbY</item>
+        <item>OWnmVCAXUXI</item>
+        <item>ihMsFM0eP4g</item>
+        <item>QdtTydxiWvA</item>
+        <item>hJJD_n6STfw</item>
+        <item>Bk7UX_jZngk</item>
+        <item>6o_s5xB9t_s</item>
+        <item>EwnGTLCkXDI</item>
+        <item>Hod3OIX0vN4</item>
+        <item>BwhHpF1Hj5I</item>
+        <item>JAjkLFJhzYI</item>
+        <item>-NYv75Dxcu8</item>
+        <item>m7I0ie0bPik</item>
+        <item>iZcPS9oeMaw</item>
+        <item>J7wbKzstCng</item>
+        <item>QeByzwa1S18</item>
+        <item>RS-CAmRpmMk</item>
+        <item>M4CxLwVvM4c</item>
+        <item>MRflmGhCxrg</item>
+        <item>ndyTb_qS1M8</item>
+        <item>BSgYfA9OhxQ</item>
+        <item>bLyURUWADf8</item>
+        <item>-5ujy41C7ZU</item>
+        <item>cKaHQnFsMcw</item>
+        <item>41i6oNJ0MSw</item>
+        <item>mpsTN2_sOoQ</item>
+        <item>k4nJ3yrXtNU</item>
+        <item>-Lex626BtnM</item>
+        <item>KtJRe_WU1K4</item>
+        <item>ExVWP8QSRGI</item>
+        <item>1sKP68RyXig</item>
+        <item>uP1caGRn3Lc</item>
+        <item>cjL1uVq6lZ0</item>
+        <item>akSc3CtJvYA</item>
+        <item>3A_43krp3ac</item>
+        <item>hX-rK8J-AHY</item>
+        <item>de58jQBv3uo</item>
+        <item>gm8Z58oNHro</item>
+        <item>vmsp7-VaNm8</item>
+        <item>i0mrr9K7clI</item>
+        <item>-dPjUzPU1Gw</item>
+        <item>7msyPbsAsS4</item>
+        <item>ZqM1VbP9s0k</item>
+        <item>qXrVqJsXnPQ</item>
+        <item>xFd5ZzAV8vE</item>
+        <item>w5-Ipy7F39s</item>
+        <item>aBRQbYMcQXU</item>
+        <item>njewEYyfGi0</item>
+        <item>idc5tq4TuiY</item>
+        <item>ZwPszd9odbY</item>
+        <item>vPmdEtuWNQo</item>
+        <item>q7SBP3xVAwk</item>
+        <item>7buksiNEO9Y</item>
+        <item>fPsGTqtBgic</item>
+        <item>3pWuaOx0NNY</item>
+        <item>XKRp5wiGt44</item>
+        <item>y9ynkyvfeMg</item>
+        <item>ci5aB6TVq4g</item>
+        <item>6z6nX0HPmno</item>
+        <item>eKYj6HNZWvY</item>
+        <item>jiy1zFiX4V4</item>
+        <item>b-bX6jVqH9M</item>
+        <item>oyc1-TGLmfg</item>
+        <item>_AbTQqpL-jU</item>
+        <item>ti131kyT7tw</item>
+        <item>BZAbR-uBO2E</item>
+        <item>OnHSuP5ioZI</item>
+        <item>U4THB7z2arw</item>
+        <item>4GbXvHb8uss</item>
+        <item>l0su6x-2jCw</item>
+        <item>AJB2N5neuuE</item>
+        <item>GolfVebfYKQ</item>
+        <item>6BgEshEg9ks</item>
+        <item>puYIBrQVry4</item>
+        <item>Snx_wGzUkJs</item>
+        <item>Xx4jXZs-qw4</item>
+        <item>CMvLEk_PJIw</item>
+        <item>METubmWXhhs</item>
+        <item>rhHKDI9ykRk</item>
+        <item>KMPuiIpyxd4</item>
+        <item>9OdMMsN5qNg</item>
+        <item>angbvrT5FZs</item>
+        <item>BQInjlteDPM</item>
+        <item>HdqdaVPD-yg</item>
+        <item>GcCfETysypg</item>
+        <item>vaYqFBa0XWo</item>
+        <item>Uhq8PcgUsqU</item>
+        <item>6ylz4SJQLis</item>
+        <item>Ive3E9hHEak</item>
+        <item>JSMMDqZs_O8</item>
+        <item>YJfl3qCDOTQ</item>
+        <item>UFbf2VbG_aw</item>
+        <item>3rwGe2JXQog</item>
+        <item>79pWRFpXs1U</item>
+        <item>v-I4YvaXTKk</item>
+        <item>5sQ75EBWQN0</item>
+        <item>MAUJmDmfad4</item>
+        <item>UOvJvbbnb-w</item>
+        <item>Snx_wGzUkJs</item>
+        <item>_MJVjAq65qA</item>
+        <item>-2yqe6H3qQU</item>
+        <item>YJmqGAxAV2Q</item>
+        <item>6E4ljvG_IlU</item>
+        <item>xPaeXdehCz0</item>
+        <item>l-cB0X-Iq7E</item>
+        <item>ok-ETEIFvyw</item>
+        <item>hzNXS_MjLjQ</item>
+        <item>tD_JgbWveY8</item>
+        <item>dcwIAjv2WZ0</item>
+        <item>HQ3OFtO36_M</item>
+        <item>mZGiUPuU2lI</item>
+        <item>p6pyXs18gKM</item>
+        <item>CGAhfB5CTyg</item>
+        <item>qvnGqKTFMi0</item>
+        <item>xFd5ZzAV8vE</item>
+        <item>IRgHyFZNwRE</item>
+        <item>p6pyXs18gKM</item>
+        <item>p6pyXs18gKM</item>
+        <item>p6pyXs18gKM</item>
+        <item>Nyk5OwXIilY</item>
+        <item>tj0_33VREsA</item>
+        <item>Cv1ieqnKhE4</item>
+        <item>xfk4tcE2p0I</item>
+        <item>D9Rwwtuvf1U</item>
+        <item>XDoz06aOvG0</item>
+        <item>8eaTdsNRsrA</item>
+        <item>AT5YcsdkaCw</item>
+        <item>J-gVobFQGMw</item>
+        <item>O-uxcVb2hng</item>
+        <item>uzeCa1Qh7sg</item>
+        <item>jVPhCs1bqZg</item>
+        <item>wp8zEWCN500</item>
+        <item>bCmB5RLhYNo</item>
+        <item>hY4DLPKgo7M</item>
+        <item>Qw7bZFK1r8w</item>
+        <item>VEQ_n-G8ExI</item>
+        <item>6BgEshEg9ks</item>
+        <item>kQPxuLbaWJw</item>
+        <item>xPaeXdehCz0</item>
+        <item>QfCjK4EdA7c</item>
+        <item>R6C47XKN1WM</item>
+        <item>C4LpcuKj3Qo</item>
+        <item>m3Vifqv5B_4</item>
+        <item>8cUvMnuUHbQ</item>
+        <item>SszroEwkWV0</item>
+        <item>DczX-JiB-QM</item>
+        <item>awRz2wf1dkk</item>
+        <item>0OIFxBTsIao</item>
+        <item>HeJtkK-5qOU</item>
+        <item>t0BGTg8fQYo</item>
+        <item>Etbr6ZlQPko</item>
+        <item>idc5tq4TuiY</item>
+        <item>Z4IfC9H0H6k</item>
+        <item>Vbg5W3KHkDs</item>
+
+
+    </string-array>
+</resources>

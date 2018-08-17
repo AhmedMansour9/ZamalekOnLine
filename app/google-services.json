@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "71206805370",
+    "firebase_url": "https://lastproject-150216.firebaseio.com",
+    "project_id": "lastproject-150216",
+    "storage_bucket": "lastproject-150216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71206805370:android:d438f4d2b98bcc51",
+        "android_client_info": {
+          "package_name": "zamaleekonlinee.zamalekonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71206805370-4q5a1885t4d25n4jcvergumc9kiertie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zamaleekonlinee.zamalekonline",
+            "certificate_hash": "B5:AE:9B:60:3D:19:C7:69:94:E5:DE:A3:85:21:F6:1C:75:B7:98:42"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArfHmEWthpBS74aF5EWSfmexNz4C7T4kg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
